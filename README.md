@@ -1,6 +1,6 @@
 # Valentine's Day Website
 
-A cute Valentine's Day website to express your love! 💖
+A cute website to express love! 💖
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Make sure you have the following installed on your machine:
 Open your terminal and run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/ValentinesDayWebsite.git
+git clone https://github.com/YourUsername/bhavniks.git
 ```
 
 ### Navigate to the Project Folder
